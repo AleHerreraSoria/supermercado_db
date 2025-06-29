@@ -49,8 +49,8 @@ Tener instalado Docker Desktop.
 Pasos
 Clonar el Repositorio
 
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/AleHerreraSoria/supermercado_db.git>
+cd <supermercado_db>
 
 Levantar los Servicios con Docker
 Asegúrate de que Docker Desktop esté en ejecución. Luego, desde la raíz del proyecto, ejecuta:
